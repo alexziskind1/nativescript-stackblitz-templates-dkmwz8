@@ -8,7 +8,7 @@ export class HelloWorldModel extends Observable {
     super();
 
     // Initialize default values.
-    this._counter = 45;
+    this._counter = 48;
     this.updateMessage();
   }
 
